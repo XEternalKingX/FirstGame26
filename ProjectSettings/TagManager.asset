@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Island
+    uniqueID: 2635716937
+    locked: 0
+  - name: Vines
+    uniqueID: 511641805
+    locked: 0
+  - name: Ladder
+    uniqueID: 3884739701
+    locked: 0
+  - name: Player
+    uniqueID: 2384325011
+    locked: 0
+  - name: Spikes
+    uniqueID: 4213253217
+    locked: 0
+  - name: Enemy
+    uniqueID: 3276762857
+    locked: 0
+  m_RenderingLayers:
+  - Default
