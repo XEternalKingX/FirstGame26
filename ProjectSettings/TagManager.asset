@@ -50,6 +50,9 @@ TagManager:
   - name: Ladder
     uniqueID: 3884739701
     locked: 0
+  - name: Door
+    uniqueID: 2199178673
+    locked: 0
   - name: Player
     uniqueID: 2384325011
     locked: 0
