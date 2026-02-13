@@ -9,6 +9,9 @@ public class player_movement : MonoBehaviour
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
+        GameSettings.Load();
+        speed = GameSettings.PlayerSpeed;
+
         body = GetComponent<Rigidbody2D>();
     }
 
