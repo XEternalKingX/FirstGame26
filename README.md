@@ -12,7 +12,7 @@ Jungle Quest is a simple 2D adventure game where the player collects keys to unl
 
 •	Note: Player death and damage are not implemented yet.
 
-## Features Add:
+## Features Added:
 
 •	Multiple scenes: Main Menu, Game, and Settings.
 
